@@ -1,0 +1,5238 @@
+{
+  "plateSP1_map": {
+    "E4": [
+      "DMSO",
+      ""
+    ],
+    "B5": [
+      "DMSO",
+      ""
+    ],
+    "F5": [
+      "DMSO",
+      ""
+    ],
+    "C6": [
+      "DMSO",
+      ""
+    ],
+    "D8": [
+      "DMSO",
+      ""
+    ],
+    "C2": [
+      "DMSO",
+      ""
+    ],
+    "F6": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "A8": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "A2": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "D2": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "F3": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "D6": [
+      "4-Aminopyridine",
+      "3 uM"
+    ],
+    "A1": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "F7": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "B3": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "B2": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "C4": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "A4": [
+      "4-Aminopyridine",
+      "10 uM"
+    ],
+    "B8": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "C7": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "D3": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "F1": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "D4": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "E2": [
+      "4-Aminopyridine",
+      "30 uM"
+    ],
+    "D1": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "B7": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "A5": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "B1": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "E5": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "A7": [
+      "Pilocarpine",
+      "0.3 uM"
+    ],
+    "E1": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "E6": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "C5": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "C8": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "A6": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "B4": [
+      "Pilocarpine",
+      "1 uM"
+    ],
+    "E3": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "B6": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "D5": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "D7": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "E7": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "A3": [
+      "Pilocarpine",
+      "3 uM"
+    ],
+    "F4": [
+      "CTRL",
+      ""
+    ],
+    "E8": [
+      "CTRL",
+      ""
+    ],
+    "C1": [
+      "CTRL",
+      ""
+    ],
+    "F2": [
+      "CTRL",
+      ""
+    ],
+    "C3": [
+      "CTRL",
+      ""
+    ],
+    "F8": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP2_map": {
+    "F3": [
+      "DMSO",
+      ""
+    ],
+    "D6": [
+      "DMSO",
+      ""
+    ],
+    "B3": [
+      "DMSO",
+      ""
+    ],
+    "A4": [
+      "DMSO",
+      ""
+    ],
+    "B5": [
+      "DMSO",
+      ""
+    ],
+    "E5": [
+      "DMSO",
+      ""
+    ],
+    "C1": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "D3": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "D2": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "E1": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "A3": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "D7": [
+      "Linopirdine",
+      "5 uM"
+    ],
+    "F5": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "C2": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "E6": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "C8": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "C3": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "F1": [
+      "Linopirdine",
+      "15 uM"
+    ],
+    "B6": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "A2": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "C4": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "B8": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "E3": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "E7": [
+      "Linopirdine",
+      "45 uM"
+    ],
+    "F6": [
+      "Lindane",
+      "5 uM"
+    ],
+    "D1": [
+      "Lindane",
+      "5 uM"
+    ],
+    "A1": [
+      "Lindane",
+      "5 uM"
+    ],
+    "A8": [
+      "Lindane",
+      "5 uM"
+    ],
+    "D4": [
+      "Lindane",
+      "5 uM"
+    ],
+    "E2": [
+      "Lindane",
+      "5 uM"
+    ],
+    "E8": [
+      "Lindane",
+      "15 uM"
+    ],
+    "F7": [
+      "Lindane",
+      "15 uM"
+    ],
+    "B1": [
+      "Lindane",
+      "15 uM"
+    ],
+    "A6": [
+      "Lindane",
+      "15 uM"
+    ],
+    "E4": [
+      "Lindane",
+      "15 uM"
+    ],
+    "D8": [
+      "Lindane",
+      "15 uM"
+    ],
+    "C5": [
+      "Lindane",
+      "45 uM"
+    ],
+    "C7": [
+      "Lindane",
+      "45 uM"
+    ],
+    "B2": [
+      "Lindane",
+      "45 uM"
+    ],
+    "B4": [
+      "Lindane",
+      "45 uM"
+    ],
+    "A5": [
+      "Lindane",
+      "45 uM"
+    ],
+    "A7": [
+      "Lindane",
+      "45 uM"
+    ],
+    "F4": [
+      "CTRL",
+      ""
+    ],
+    "F8": [
+      "CTRL",
+      ""
+    ],
+    "D5": [
+      "CTRL",
+      ""
+    ],
+    "C6": [
+      "CTRL",
+      ""
+    ],
+    "F2": [
+      "CTRL",
+      ""
+    ],
+    "B7": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP3r_map": {
+    "A1": [
+      "DMSO",
+      ""
+    ],
+    "F4": [
+      "DMSO",
+      ""
+    ],
+    "F6": [
+      "DMSO",
+      ""
+    ],
+    "B3": [
+      "DMSO",
+      ""
+    ],
+    "D5": [
+      "DMSO",
+      ""
+    ],
+    "C4": [
+      "DMSO",
+      ""
+    ],
+    "C3": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "A4": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "F7": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "B2": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "E5": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "D2": [
+      "Ibuprofen",
+      "50 uM"
+    ],
+    "B1": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "F3": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "A8": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "C1": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "B6": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "D7": [
+      "Ibuprofen",
+      "150 uM"
+    ],
+    "A5": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "A3": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "B8": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "E7": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "C6": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "D6": [
+      "Ibuprofen",
+      "300 uM"
+    ],
+    "A7": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "A2": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "E8": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "A6": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "B7": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "C5": [
+      "Acetaminophen",
+      "17 uM"
+    ],
+    "C8": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "F1": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "F8": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "D4": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "C7": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "D3": [
+      "Acetaminophen",
+      "50 uM"
+    ],
+    "D8": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "D1": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "E1": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "B4": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "C2": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "E2": [
+      "Acetaminophen",
+      "150 uM"
+    ],
+    "F2": [
+      "CTRL",
+      ""
+    ],
+    "F5": [
+      "CTRL",
+      ""
+    ],
+    "E6": [
+      "CTRL",
+      ""
+    ],
+    "E3": [
+      "CTRL",
+      ""
+    ],
+    "E4": [
+      "CTRL",
+      ""
+    ],
+    "B5": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP4_map": {
+    "B1": [
+      "DMSO",
+      ""
+    ],
+    "C6": [
+      "DMSO",
+      ""
+    ],
+    "A4": [
+      "DMSO",
+      ""
+    ],
+    "B6": [
+      "DMSO",
+      ""
+    ],
+    "E3": [
+      "DMSO",
+      ""
+    ],
+    "B8": [
+      "DMSO",
+      ""
+    ],
+    "D1": [
+      "Apamin",
+      "1 uM"
+    ],
+    "A2": [
+      "Apamin",
+      "1 uM"
+    ],
+    "F2": [
+      "Apamin",
+      "1 uM"
+    ],
+    "D7": [
+      "Apamin",
+      "1 uM"
+    ],
+    "A1": [
+      "Apamin",
+      "1 uM"
+    ],
+    "D6": [
+      "Apamin",
+      "1 uM"
+    ],
+    "F1": [
+      "Apamin",
+      "300 nM"
+    ],
+    "C8": [
+      "Apamin",
+      "300 nM"
+    ],
+    "D3": [
+      "Apamin",
+      "300 nM"
+    ],
+    "D2": [
+      "Apamin",
+      "300 nM"
+    ],
+    "B3": [
+      "Apamin",
+      "300 nM"
+    ],
+    "E8": [
+      "Apamin",
+      "300 nM"
+    ],
+    "C4": [
+      "Apamin",
+      "100 nM"
+    ],
+    "B7": [
+      "Apamin",
+      "100 nM"
+    ],
+    "F3": [
+      "Apamin",
+      "100 nM"
+    ],
+    "F6": [
+      "Apamin",
+      "100 nM"
+    ],
+    "C3": [
+      "Apamin",
+      "100 nM"
+    ],
+    "D8": [
+      "Apamin",
+      "100 nM"
+    ],
+    "E1": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "E5": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "B4": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "A6": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "C2": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "E7": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "B2": [
+      "PTZ",
+      "1 mM"
+    ],
+    "D4": [
+      "PTZ",
+      "1 mM"
+    ],
+    "E4": [
+      "PTZ",
+      "1 mM"
+    ],
+    "F5": [
+      "PTZ",
+      "1 mM"
+    ],
+    "B5": [
+      "PTZ",
+      "1 mM"
+    ],
+    "C1": [
+      "PTZ",
+      "1 mM"
+    ],
+    "E2": [
+      "PTZ",
+      "3 mM"
+    ],
+    "A3": [
+      "PTZ",
+      "3 mM"
+    ],
+    "F4": [
+      "PTZ",
+      "3 mM"
+    ],
+    "C5": [
+      "PTZ",
+      "3 mM"
+    ],
+    "D5": [
+      "PTZ",
+      "3 mM"
+    ],
+    "E6": [
+      "PTZ",
+      "3 mM"
+    ],
+    "A7": [
+      "CTRL",
+      ""
+    ],
+    "A5": [
+      "CTRL",
+      ""
+    ],
+    "C7": [
+      "CTRL",
+      ""
+    ],
+    "A8": [
+      "CTRL",
+      ""
+    ],
+    "F8": [
+      "CTRL",
+      ""
+    ],
+    "F7": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP4r_map": {
+    "B1": [
+      "DMSO",
+      ""
+    ],
+    "C6": [
+      "DMSO",
+      ""
+    ],
+    "A4": [
+      "DMSO",
+      ""
+    ],
+    "B6": [
+      "DMSO",
+      ""
+    ],
+    "E3": [
+      "DMSO",
+      ""
+    ],
+    "B8": [
+      "DMSO",
+      ""
+    ],
+    "D1": [
+      "Apamin",
+      "1 uM"
+    ],
+    "A2": [
+      "Apamin",
+      "1 uM"
+    ],
+    "F2": [
+      "Apamin",
+      "1 uM"
+    ],
+    "D7": [
+      "Apamin",
+      "1 uM"
+    ],
+    "A1": [
+      "Apamin",
+      "1 uM"
+    ],
+    "D6": [
+      "Apamin",
+      "1 uM"
+    ],
+    "F1": [
+      "Apamin",
+      "300 nM"
+    ],
+    "C8": [
+      "Apamin",
+      "300 nM"
+    ],
+    "D3": [
+      "Apamin",
+      "300 nM"
+    ],
+    "D2": [
+      "Apamin",
+      "300 nM"
+    ],
+    "B3": [
+      "Apamin",
+      "300 nM"
+    ],
+    "E8": [
+      "Apamin",
+      "300 nM"
+    ],
+    "C4": [
+      "Apamin",
+      "100 nM"
+    ],
+    "B7": [
+      "Apamin",
+      "100 nM"
+    ],
+    "F3": [
+      "Apamin",
+      "100 nM"
+    ],
+    "F6": [
+      "Apamin",
+      "100 nM"
+    ],
+    "C3": [
+      "Apamin",
+      "100 nM"
+    ],
+    "D8": [
+      "Apamin",
+      "100 nM"
+    ],
+    "E1": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "E5": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "B4": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "A6": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "C2": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "E7": [
+      "PTZ",
+      "0.3 mM"
+    ],
+    "B2": [
+      "PTZ",
+      "1 mM"
+    ],
+    "D4": [
+      "PTZ",
+      "1 mM"
+    ],
+    "E4": [
+      "PTZ",
+      "1 mM"
+    ],
+    "F5": [
+      "PTZ",
+      "1 mM"
+    ],
+    "B5": [
+      "PTZ",
+      "1 mM"
+    ],
+    "C1": [
+      "PTZ",
+      "1 mM"
+    ],
+    "E2": [
+      "PTZ",
+      "3 mM"
+    ],
+    "A3": [
+      "PTZ",
+      "3 mM"
+    ],
+    "F4": [
+      "PTZ",
+      "3 mM"
+    ],
+    "C5": [
+      "PTZ",
+      "3 mM"
+    ],
+    "D5": [
+      "PTZ",
+      "3 mM"
+    ],
+    "E6": [
+      "PTZ",
+      "3 mM"
+    ],
+    "A7": [
+      "CTRL",
+      ""
+    ],
+    "A5": [
+      "CTRL",
+      ""
+    ],
+    "C7": [
+      "CTRL",
+      ""
+    ],
+    "A8": [
+      "CTRL",
+      ""
+    ],
+    "F8": [
+      "CTRL",
+      ""
+    ],
+    "F7": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP5_map": {
+    "A1": [
+      "DMSO",
+      ""
+    ],
+    "D1": [
+      "DMSO",
+      ""
+    ],
+    "E3": [
+      "DMSO",
+      ""
+    ],
+    "E2": [
+      "DMSO",
+      ""
+    ],
+    "D5": [
+      "DMSO",
+      ""
+    ],
+    "B8": [
+      "DMSO",
+      ""
+    ],
+    "F1": [
+      "Atropine",
+      "500 nM"
+    ],
+    "C1": [
+      "Atropine",
+      "500 nM"
+    ],
+    "C4": [
+      "Atropine",
+      "500 nM"
+    ],
+    "D2": [
+      "Atropine",
+      "500 nM"
+    ],
+    "E6": [
+      "Atropine",
+      "500 nM"
+    ],
+    "B5": [
+      "Atropine",
+      "500 nM"
+    ],
+    "A2": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "B2": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "D4": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "C2": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "B7": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "D6": [
+      "Atropine",
+      "1.5 uM"
+    ],
+    "F3": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "A6": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "E5": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "E1": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "D7": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "B6": [
+      "Atropine",
+      "4.5 uM"
+    ],
+    "E4": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "F5": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "C6": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "B1": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "E7": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "C5": [
+      "Muscimol",
+      "17 nM"
+    ],
+    "F4": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "A4": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "F6": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "F8": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "B4": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "C3": [
+      "Muscimol",
+      "50 nM"
+    ],
+    "A5": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "F2": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "C7": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "A8": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "D3": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "B3": [
+      "Muscimol",
+      "150 nM"
+    ],
+    "A3": [
+      "CTRL",
+      ""
+    ],
+    "A7": [
+      "CTRL",
+      ""
+    ],
+    "D8": [
+      "CTRL",
+      ""
+    ],
+    "C8": [
+      "CTRL",
+      ""
+    ],
+    "F7": [
+      "CTRL",
+      ""
+    ],
+    "E8": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP6_map": {
+    "B7": [
+      "DMSO",
+      ""
+    ],
+    "F7": [
+      "DMSO",
+      ""
+    ],
+    "E1": [
+      "DMSO",
+      ""
+    ],
+    "B2": [
+      "DMSO",
+      ""
+    ],
+    "E3": [
+      "DMSO",
+      ""
+    ],
+    "E4": [
+      "DMSO",
+      ""
+    ],
+    "A1": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "A7": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "F2": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "D8": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "B4": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "C4": [
+      "L-Glutamate",
+      "1 uM"
+    ],
+    "A8": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "F5": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "C3": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "C8": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "D4": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "B3": [
+      "L-Glutamate",
+      "10 uM"
+    ],
+    "F8": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "F4": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "A5": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "F6": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "B5": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "D2": [
+      "L-Glutamate",
+      "30 uM"
+    ],
+    "B1": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "A4": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "C5": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "E6": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "D5": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "E8": [
+      "Acetylcholine",
+      "300 uM"
+    ],
+    "F1": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "F3": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "E5": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "D6": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "C6": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "E7": [
+      "Acetylcholine",
+      "1 mM"
+    ],
+    "A2": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "A3": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "A6": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "B6": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "C7": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "D7": [
+      "Acetylcholine",
+      "3 mM"
+    ],
+    "E2": [
+      "CTRL",
+      ""
+    ],
+    "C1": [
+      "CTRL",
+      ""
+    ],
+    "D1": [
+      "CTRL",
+      ""
+    ],
+    "C2": [
+      "CTRL",
+      ""
+    ],
+    "D3": [
+      "CTRL",
+      ""
+    ],
+    "B8": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP7_map": {
+    "A7": [
+      "vehicle",
+      ""
+    ],
+    "D8": [
+      "vehicle",
+      ""
+    ],
+    "A2": [
+      "vehicle",
+      ""
+    ],
+    "C4": [
+      "vehicle",
+      ""
+    ],
+    "F5": [
+      "vehicle",
+      ""
+    ],
+    "C5": [
+      "vehicle",
+      ""
+    ],
+    "B3": [
+      "PTX",
+      ""
+    ],
+    "C3": [
+      "PTX",
+      ""
+    ],
+    "B1": [
+      "PTX",
+      ""
+    ],
+    "B6": [
+      "PTX",
+      ""
+    ],
+    "F6": [
+      "PTX",
+      ""
+    ],
+    "F3": [
+      "PTX",
+      ""
+    ]
+  },
+  "plateSP8_map": {
+    "C3": [
+      "vehicle",
+      ""
+    ],
+    "F4": [
+      "vehicle",
+      ""
+    ],
+    "A7": [
+      "vehicle",
+      ""
+    ],
+    "B8": [
+      "vehicle",
+      ""
+    ],
+    "E1": [
+      "vehicle",
+      ""
+    ],
+    "C5": [
+      "vehicle",
+      ""
+    ],
+    "B1": [
+      "PTX",
+      ""
+    ],
+    "D1": [
+      "PTX",
+      ""
+    ],
+    "C1": [
+      "PTX",
+      ""
+    ],
+    "A1": [
+      "PTX",
+      ""
+    ],
+    "E8": [
+      "PTX",
+      ""
+    ],
+    "E7": [
+      "PTX",
+      ""
+    ]
+  },
+  "plateSP10r_map": {
+    "F1": [
+      "DMSO",
+      ""
+    ],
+    "B1": [
+      "DMSO",
+      ""
+    ],
+    "E3": [
+      "DMSO",
+      ""
+    ],
+    "F5": [
+      "DMSO",
+      ""
+    ],
+    "D7": [
+      "DMSO",
+      ""
+    ],
+    "A7": [
+      "DMSO",
+      ""
+    ],
+    "A1": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "C8": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "F3": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "E4": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "E7": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "A6": [
+      "Diazepam",
+      "0.25 uM"
+    ],
+    "A8": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "B8": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "B4": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "C4": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "F7": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "B5": [
+      "Diazepam",
+      "0.75 uM"
+    ],
+    "C1": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "E6": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "F4": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "C3": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "D8": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "F6": [
+      "Diazepam",
+      "2.25 uM"
+    ],
+    "B6": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "B2": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "E5": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "B3": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "A3": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "D5": [
+      "Propranolol",
+      "20 nM"
+    ],
+    "E1": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "A4": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "C6": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "C2": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "D1": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "D4": [
+      "Propranolol",
+      "100 nM"
+    ],
+    "E2": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "F2": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "D6": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "A2": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "D2": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "D3": [
+      "Propranolol",
+      "1 uM"
+    ],
+    "F8": [
+      "CTRL",
+      ""
+    ],
+    "C5": [
+      "CTRL",
+      ""
+    ],
+    "E8": [
+      "CTRL",
+      ""
+    ],
+    "B7": [
+      "CTRL",
+      ""
+    ],
+    "C7": [
+      "CTRL",
+      ""
+    ],
+    "A5": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP14_map": {
+    "F3": [
+      "DMSO",
+      ""
+    ],
+    "B2": [
+      "DMSO",
+      ""
+    ],
+    "A4": [
+      "DMSO",
+      ""
+    ],
+    "B5": [
+      "DMSO",
+      ""
+    ],
+    "D6": [
+      "DMSO",
+      ""
+    ],
+    "F8": [
+      "DMSO",
+      ""
+    ],
+    "A1": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "C4": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "D5": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "A5": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "C7": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "E8": [
+      "Bethanechol",
+      "30 uM"
+    ],
+    "C2": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "B4": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "A3": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "F4": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "E7": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "F7": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "D1": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "C3": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "E6": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "E4": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "B8": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "F6": [
+      "Mecamylamine",
+      "10 uM"
+    ],
+    "C1": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "C5": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "B7": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "D4": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "C8": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "C6": [
+      "Mecamylamine",
+      "30 uM"
+    ],
+    "B1": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "E1": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "A8": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "A2": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "D2": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "E5": [
+      "a-Bungarotoxin",
+      "100 nM"
+    ],
+    "D3": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "F1": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "D7": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "B3": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "D8": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "F5": [
+      "SNC-80",
+      "10 uM"
+    ],
+    "E2": [
+      "CTRL",
+      ""
+    ],
+    "A7": [
+      "CTRL",
+      ""
+    ],
+    "B6": [
+      "CTRL",
+      ""
+    ],
+    "F2": [
+      "CTRL",
+      ""
+    ],
+    "A6": [
+      "CTRL",
+      ""
+    ],
+    "E3": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plateSP9_map": {
+    "C4": [
+      "vehicle",
+      ""
+    ],
+    "C5": [
+      "vehicle",
+      ""
+    ],
+    "C6": [
+      "vehicle",
+      ""
+    ],
+    "E8": [
+      "vehicle",
+      ""
+    ],
+    "F1": [
+      "vehicle",
+      ""
+    ],
+    "B3": [
+      "vehicle",
+      ""
+    ],
+    "B6": [
+      "PTX",
+      ""
+    ],
+    "E5": [
+      "PTX",
+      ""
+    ],
+    "B2": [
+      "PTX",
+      ""
+    ],
+    "D1": [
+      "PTX",
+      ""
+    ],
+    "C3": [
+      "PTX",
+      ""
+    ],
+    "D3": [
+      "PTX",
+      ""
+    ]
+  },
+  "plateSP10R_map": {
+    "A1": [
+      "DMSO",
+      ""
+    ],
+    "B3": [
+      "DMSO",
+      ""
+    ],
+    "A4": [
+      "DMSO",
+      ""
+    ],
+    "E5": [
+      "DMSO",
+      ""
+    ],
+    "B6": [
+      "DMSO",
+      ""
+    ],
+    "A3": [
+      "DMSO",
+      ""
+    ],
+    "D1": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "E2": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "F5": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "B5": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "A8": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "B7": [
+      "Carbachol",
+      "5 uM"
+    ],
+    "C8": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "B2": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "A6": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "E4": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "B8": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "E7": [
+      "Carbachol",
+      "15 uM"
+    ],
+    "C1": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "E1": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "F6": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "B4": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "D5": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "D7": [
+      "Carbachol",
+      "50 uM"
+    ],
+    "F1": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "F8": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "C7": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "E3": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "C2": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "D6": [
+      "Bethanechol",
+      "1 uM"
+    ],
+    "F2": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "D8": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "F7": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "C3": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "D3": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "C6": [
+      "Bethanechol",
+      "10 uM"
+    ],
+    "F3": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "F4": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "A2": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "D2": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "C4": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "D4": [
+      "Bethanechol",
+      "100 uM"
+    ],
+    "A5": [
+      "CTRL",
+      ""
+    ],
+    "A7": [
+      "CTRL",
+      ""
+    ],
+    "E8": [
+      "CTRL",
+      ""
+    ],
+    "B1": [
+      "CTRL",
+      ""
+    ],
+    "C5": [
+      "CTRL",
+      ""
+    ],
+    "E6": [
+      "CTRL",
+      ""
+    ]
+  },
+  "plate01_map": {
+    "A2": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B2": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A4": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B4": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A6": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B6": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A8": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B8": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A1": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "B1": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "A3": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "B3": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "A5": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "B5": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "A7": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "B7": [
+      "50/50_WT PTX",
+      "50 uM"
+    ],
+    "E2": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E4": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E6": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E8": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E1": [
+      "85/15_WT PTX",
+      "50 uM"
+    ],
+    "E3": [
+      "85/15_WT PTX",
+      "50 uM"
+    ],
+    "E5": [
+      "85/15_WT PTX",
+      "50 uM"
+    ],
+    "E7": [
+      "85/15_WT PTX",
+      "50 uM"
+    ],
+    "C2": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D2": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C4": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D4": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C6": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D6": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C8": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D8": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C1": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "D1": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "C3": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "D3": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "C5": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "D5": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "C7": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "D7": [
+      "50/50_HZ PTX",
+      "50 uM"
+    ],
+    "F2": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F4": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F6": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F8": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F1": [
+      "85/15_HZ PTX",
+      "50 uM"
+    ],
+    "F3": [
+      "85/15_HZ PTX",
+      "50 uM"
+    ],
+    "F5": [
+      "85/15_HZ PTX",
+      "50 uM"
+    ],
+    "F7": [
+      "85/15_HZ PTX",
+      "50 uM"
+    ]
+  },
+  "plate02_map": {
+    "B1": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B2": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B3": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B7": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A1": [
+      "50/50_WT muscimol",
+      "50 nM"
+    ],
+    "A3": [
+      "50/50_WT muscimol",
+      "50 nM"
+    ],
+    "B8": [
+      "50/50_WT muscimol",
+      "50 nM"
+    ],
+    "E2": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E3": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E5": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E6": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E1": [
+      "85/15_WT muscimol",
+      "50 nM"
+    ],
+    "E4": [
+      "85/15_WT muscimol",
+      "50 nM"
+    ],
+    "E7": [
+      "85/15_WT muscimol",
+      "50 nM"
+    ],
+    "E8": [
+      "85/15_WT muscimol",
+      "50 nM"
+    ]
+  },
+  "plate03_map": {
+    "A3": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B1": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B2": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B3": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A1": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "A2": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "A4": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "B7": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "E1": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E2": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E4": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E6": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E3": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E5": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E7": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E8": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "C1": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C2": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C5": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D1": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D4": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D8": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C3": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D2": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D3": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D5": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D6": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D7": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "F1": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F2": [
+      "85/15_HZ Atropine",
+      "500 nM"
+    ],
+    "F4": [
+      "85/15_HZ Atropine",
+      "500 nM"
+    ]
+  },
+  "plate04_map": {
+    "A3": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B1": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B2": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "B3": [
+      "50/50_WT vehicle",
+      ""
+    ],
+    "A1": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "A2": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "A4": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "B7": [
+      "50/50_WT Atropine",
+      "500 nM"
+    ],
+    "E1": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E2": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E4": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E6": [
+      "85/15_WT vehicle",
+      ""
+    ],
+    "E3": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E5": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E7": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "E8": [
+      "85/15_WT Atropine",
+      "500 nM"
+    ],
+    "C1": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C2": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C5": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D1": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D4": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "D8": [
+      "50/50_HZ vehicle",
+      ""
+    ],
+    "C3": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D2": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D3": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D5": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D6": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "D7": [
+      "50/50_HZ Atropine",
+      "500 nM"
+    ],
+    "F1": [
+      "85/15_HZ vehicle",
+      ""
+    ],
+    "F2": [
+      "85/15_HZ Atropine",
+      "500 nM"
+    ],
+    "F4": [
+      "85/15_HZ Atropine",
+      "500 nM"
+    ]
+  },
+  "plate05_map": {
+    "C1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A1": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "B1": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D1": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "A2": [
+      "75:25_iGluta:iGABA vehicle",
+      ""
+    ],
+    "B2": [
+      "75:25_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E2": [
+      "75:25_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F2": [
+      "75:25_iGluta:iGABA vehicle",
+      ""
+    ],
+    "C2": [
+      "75:25_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D2": [
+      "75:25_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "A3": [
+      "75:25_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "B3": [
+      "75:25_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "C3": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "D3": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F3": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E4": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E3": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "C4": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D4": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "F4": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ]
+  },
+  "plate06_map": {
+    "B1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "B2": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E2": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "D1": [
+      "100:0_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "D2": [
+      "100:0_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "F1": [
+      "100:0_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "B3": [
+      "100:0_iGluta:iGABA 4AP",
+      "100 uM"
+    ],
+    "C1": [
+      "100:0_iGluta:iGABA 4AP",
+      "100 uM"
+    ],
+    "F2": [
+      "100:0_iGluta:iGABA 4AP",
+      "100 uM"
+    ],
+    "B4": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "C5": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A5": [
+      "85:15_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "B5": [
+      "85:15_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "D4": [
+      "85:15_iGluta:iGABA 4AP",
+      "100 uM"
+    ],
+    "E4": [
+      "85:15_iGluta:iGABA 4AP",
+      "100 uM"
+    ],
+    "D6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A6": [
+      "50:50_iGluta:iGABA 4AP",
+      "25 uM"
+    ],
+    "B6": [
+      "50:50_iGluta:iGABA 4AP",
+      "100 uM"
+    ]
+  },
+  "plate07_map": {
+    "A1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "B1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "C1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "D1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F1": [
+      "100:0_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "B2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "C2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "E2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "F2": [
+      "100:0_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "A3": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "B3": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "C3": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "D3": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E4": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F3": [
+      "85:15_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A4": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "B4": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "C4": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D4": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "E3": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "F4": [
+      "85:15_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "A6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "B6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "C6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "D6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "E6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "F6": [
+      "50:50_iGluta:iGABA vehicle",
+      ""
+    ],
+    "A5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "B5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "C5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "D5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "E5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ],
+    "F5": [
+      "50:50_iGluta:iGABA PTX",
+      "50 uM"
+    ]
+  },
+  "plate08_map": {
+    "A2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "B1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "C1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "D1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "E1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "F1": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      "500 nM"
+    ],
+    "A4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "B4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "C4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "D4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "E4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "F4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "A3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "B3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "C3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "D3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "E3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "F3": [
+      "NGN2_neurons_STXBP1-DAPT atropine",
+      "500 nM"
+    ],
+    "A6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "D6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "F5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A5": [
+      "NGN2_neurons_WT_DAPT atropine",
+      "500 nM"
+    ],
+    "B5": [
+      "NGN2_neurons_WT_DAPT atropine",
+      "500 nM"
+    ],
+    "C5": [
+      "NGN2_neurons_WT_DAPT atropine",
+      "500 nM"
+    ],
+    "D5": [
+      "NGN2_neurons_WT_DAPT atropine",
+      "500 nM"
+    ],
+    "E5": [
+      "NGN2_neurons_WT_DAPT atropine",
+      "500 nM"
+    ],
+    "A8": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "B8": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "E7": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "F7": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "A7": [
+      "NGN2_neurons_WT-DAPT atropine",
+      "500 nM"
+    ],
+    "B7": [
+      "NGN2_neurons_WT-DAPT atropine",
+      "500 nM"
+    ],
+    "C7": [
+      "NGN2_neurons_WT-DAPT atropine",
+      "500 nM"
+    ],
+    "D7": [
+      "NGN2_neurons_WT-DAPT atropine",
+      "500 nM"
+    ]
+  },
+  "plate09_map": {
+    "A1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "D2": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E2": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "F1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "F2": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "A3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A4": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B4": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C4": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "D4": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E4": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "F3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "F4": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "A5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "D5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "D6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "E5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "E6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "F5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "F6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "A7": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A8": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B7": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B8": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C7": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C8": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "D7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "D8": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "E7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "E8": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "F7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "F8": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ]
+  },
+  "plate10_map": {
+    "D2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "B1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "C1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "D1": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E4": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F4": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "B3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "C3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "D3": [
+      "NGN2_neurons_STXBP1_DAPT XE991",
+      "3 uM"
+    ],
+    "E5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "E6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "F5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "F6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "B5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "C5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "D5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "A7": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A8": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B7": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B8": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "D7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "E7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ],
+    "F7": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "3 uM"
+    ]
+  },
+  "plate11_map": {
+    "A1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D1": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "D2": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "E1": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "E2": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "F1": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "F2": [
+      "NGN2_neurons_STXBP1_DAPT 4AP",
+      "1,10,50 uM"
+    ],
+    "A3": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "A4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "B3": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "B4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "C3": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "C4": [
+      "NGN2_neurons_STXBP1-DAPT vehicle",
+      ""
+    ],
+    "D3": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "D4": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E3": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E4": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F3": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F4": [
+      "NGN2_neurons_STXBP1-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "A5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "A6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "B6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C5": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "C6": [
+      "NGN2_neurons_WT_DAPT vehicle",
+      ""
+    ],
+    "D5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "D6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F5": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F6": [
+      "NGN2_neurons_WT_DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "A7": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "A8": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "B7": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "B8": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "C7": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "C8": [
+      "NGN2_neurons_WT-DAPT vehicle",
+      ""
+    ],
+    "D7": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "D8": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E7": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "E8": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F7": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ],
+    "F8": [
+      "NGN2_neurons_WT-DAPT XE991",
+      "1,10,50 uM"
+    ]
+  },
+  "plateIP2_map": {
+    "A1": [
+      "100:0 WT",
+      ""
+    ],
+    "B1": [
+      "100:0 WT",
+      ""
+    ],
+    "C1": [
+      "100:0 WT",
+      ""
+    ],
+    "D1": [
+      "100:0 WT",
+      ""
+    ],
+    "E1": [
+      "100:0 WT",
+      ""
+    ],
+    "F1": [
+      "100:0 WT",
+      ""
+    ],
+    "A2": [
+      "75:25 WT",
+      ""
+    ],
+    "A3": [
+      "75:25 WT",
+      ""
+    ],
+    "B2": [
+      "75:25 WT",
+      ""
+    ],
+    "B3": [
+      "75:25 WT",
+      ""
+    ],
+    "C2": [
+      "75:25 WT",
+      ""
+    ],
+    "D2": [
+      "75:25 WT",
+      ""
+    ],
+    "E2": [
+      "75:25 WT",
+      ""
+    ],
+    "F2": [
+      "75:25 WT",
+      ""
+    ],
+    "C3": [
+      "50:50 WT",
+      ""
+    ],
+    "C4": [
+      "50:50 WT",
+      ""
+    ],
+    "D3": [
+      "50:50 WT",
+      ""
+    ],
+    "D4": [
+      "50:50 WT",
+      ""
+    ],
+    "E3": [
+      "50:50 WT",
+      ""
+    ],
+    "E4": [
+      "50:50 WT",
+      ""
+    ],
+    "F3": [
+      "50:50 WT",
+      ""
+    ],
+    "F4": [
+      "50:50 WT",
+      ""
+    ],
+    "A5": [
+      "25:75 WT",
+      ""
+    ],
+    "A6": [
+      "25:75 WT",
+      ""
+    ],
+    "B5": [
+      "25:75 WT",
+      ""
+    ],
+    "B6": [
+      "25:75 WT",
+      ""
+    ],
+    "C5": [
+      "25:75 WT",
+      ""
+    ],
+    "D5": [
+      "25:75 WT",
+      ""
+    ],
+    "E5": [
+      "25:75 WT",
+      ""
+    ],
+    "F5": [
+      "25:75 WT",
+      ""
+    ],
+    "A7": [
+      "0:100 WT",
+      ""
+    ],
+    "B7": [
+      "0:100 WT",
+      ""
+    ],
+    "C7": [
+      "0:100 WT",
+      ""
+    ],
+    "D6": [
+      "0:100 WT",
+      ""
+    ],
+    "D7": [
+      "0:100 WT",
+      ""
+    ],
+    "E6": [
+      "0:100 WT",
+      ""
+    ],
+    "F6": [
+      "0:100 WT",
+      ""
+    ]
+  },
+  "plateIP4_map": {
+    "A1": [
+      "100:0 WT",
+      ""
+    ],
+    "A2": [
+      "100:0 WT",
+      ""
+    ],
+    "A3": [
+      "100:0 WT",
+      ""
+    ],
+    "A4": [
+      "100:0 WT",
+      ""
+    ],
+    "A5": [
+      "100:0 WT",
+      ""
+    ],
+    "A6": [
+      "100:0 WT",
+      ""
+    ],
+    "A7": [
+      "100:0 WT",
+      ""
+    ],
+    "A8": [
+      "100:0 WT",
+      ""
+    ],
+    "B1": [
+      "100:0 WT",
+      ""
+    ],
+    "B2": [
+      "100:0 WT",
+      ""
+    ],
+    "B3": [
+      "100:0 WT",
+      ""
+    ],
+    "B4": [
+      "100:0 WT",
+      ""
+    ],
+    "B5": [
+      "100:0 WT",
+      ""
+    ],
+    "B6": [
+      "100:0 WT",
+      ""
+    ],
+    "B7": [
+      "100:0 WT",
+      ""
+    ],
+    "B8": [
+      "100:0 WT",
+      ""
+    ],
+    "C1": [
+      "85:15 WT",
+      ""
+    ],
+    "C2": [
+      "85:15 WT",
+      ""
+    ],
+    "C3": [
+      "85:15 WT",
+      ""
+    ],
+    "C4": [
+      "85:15 WT",
+      ""
+    ],
+    "C5": [
+      "85:15 WT",
+      ""
+    ],
+    "C6": [
+      "85:15 WT",
+      ""
+    ],
+    "C7": [
+      "85:15 WT",
+      ""
+    ],
+    "C8": [
+      "85:15 WT",
+      ""
+    ],
+    "D1": [
+      "85:15 WT",
+      ""
+    ],
+    "D2": [
+      "85:15 WT",
+      ""
+    ],
+    "D3": [
+      "85:15 WT",
+      ""
+    ],
+    "D4": [
+      "85:15 WT",
+      ""
+    ],
+    "D5": [
+      "85:15 WT",
+      ""
+    ],
+    "D6": [
+      "85:15 WT",
+      ""
+    ],
+    "D7": [
+      "85:15 WT",
+      ""
+    ],
+    "D8": [
+      "85:15 WT",
+      ""
+    ],
+    "E1": [
+      "50:50 WT",
+      ""
+    ],
+    "E2": [
+      "50:50 WT",
+      ""
+    ],
+    "E3": [
+      "50:50 WT",
+      ""
+    ],
+    "E4": [
+      "50:50 WT",
+      ""
+    ],
+    "E5": [
+      "50:50 WT",
+      ""
+    ],
+    "E6": [
+      "50:50 WT",
+      ""
+    ],
+    "E7": [
+      "50:50 WT",
+      ""
+    ],
+    "E8": [
+      "50:50 WT",
+      ""
+    ],
+    "F1": [
+      "50:50 WT",
+      ""
+    ],
+    "F2": [
+      "50:50 WT",
+      ""
+    ],
+    "F3": [
+      "50:50 WT",
+      ""
+    ],
+    "F4": [
+      "50:50 WT",
+      ""
+    ],
+    "F5": [
+      "50:50 WT",
+      ""
+    ],
+    "F6": [
+      "50:50 WT",
+      ""
+    ],
+    "F7": [
+      "50:50 WT",
+      ""
+    ],
+    "F8": [
+      "50:50 WT",
+      ""
+    ]
+  },
+  "plateIP7_map": {
+    "A1": [
+      "100:0 WT",
+      ""
+    ],
+    "A2": [
+      "100:0 WT",
+      ""
+    ],
+    "A3": [
+      "100:0 WT",
+      ""
+    ],
+    "B1": [
+      "100:0 WT",
+      ""
+    ],
+    "B2": [
+      "100:0 WT",
+      ""
+    ],
+    "B3": [
+      "100:0 WT",
+      ""
+    ],
+    "C1": [
+      "100:0 WT",
+      ""
+    ],
+    "C2": [
+      "100:0 WT",
+      ""
+    ],
+    "C3": [
+      "100:0 WT",
+      ""
+    ],
+    "D1": [
+      "100:0 WT",
+      ""
+    ],
+    "D2": [
+      "100:0 WT",
+      ""
+    ],
+    "E1": [
+      "100:0 WT",
+      ""
+    ],
+    "E2": [
+      "100:0 WT",
+      ""
+    ],
+    "F1": [
+      "100:0 WT",
+      ""
+    ],
+    "F2": [
+      "100:0 WT",
+      ""
+    ],
+    "A4": [
+      "85:15 WT",
+      ""
+    ],
+    "A5": [
+      "85:15 WT",
+      ""
+    ],
+    "B4": [
+      "85:15 WT",
+      ""
+    ],
+    "B5": [
+      "85:15 WT",
+      ""
+    ],
+    "C4": [
+      "85:15 WT",
+      ""
+    ],
+    "C5": [
+      "85:15 WT",
+      ""
+    ],
+    "D4": [
+      "85:15 WT",
+      ""
+    ],
+    "D5": [
+      "85:15 WT",
+      ""
+    ],
+    "E4": [
+      "85:15 WT",
+      ""
+    ],
+    "E5": [
+      "85:15 WT",
+      ""
+    ],
+    "F4": [
+      "85:15 WT",
+      ""
+    ],
+    "A6": [
+      "50:50 WT",
+      ""
+    ],
+    "B6": [
+      "50:50 WT",
+      ""
+    ],
+    "C6": [
+      "50:50 WT",
+      ""
+    ],
+    "D6": [
+      "50:50 WT",
+      ""
+    ],
+    "E6": [
+      "50:50 WT",
+      ""
+    ],
+    "F6": [
+      "50:50 WT",
+      ""
+    ]
+  },
+  "plateIP8_map": {
+    "A1": [
+      "85:15 WT",
+      ""
+    ],
+    "A2": [
+      "85:15 WT",
+      ""
+    ],
+    "A3": [
+      "85:15 WT",
+      ""
+    ],
+    "A4": [
+      "85:15 WT",
+      ""
+    ],
+    "A5": [
+      "85:15 WT",
+      ""
+    ],
+    "A6": [
+      "85:15 WT",
+      ""
+    ],
+    "A7": [
+      "85:15 WT",
+      ""
+    ],
+    "A8": [
+      "85:15 WT",
+      ""
+    ],
+    "B1": [
+      "50:50 WT",
+      ""
+    ],
+    "B2": [
+      "50:50 WT",
+      ""
+    ],
+    "B3": [
+      "50:50 WT",
+      ""
+    ],
+    "B4": [
+      "50:50 WT",
+      ""
+    ],
+    "B5": [
+      "50:50 WT",
+      ""
+    ],
+    "B6": [
+      "50:50 WT",
+      ""
+    ],
+    "B7": [
+      "50:50 WT",
+      ""
+    ],
+    "B8": [
+      "50:50 WT",
+      ""
+    ],
+    "C1": [
+      "0:100 WT",
+      ""
+    ],
+    "C2": [
+      "0:100 WT",
+      ""
+    ],
+    "C3": [
+      "0:100 WT",
+      ""
+    ],
+    "C4": [
+      "0:100 WT",
+      ""
+    ],
+    "C5": [
+      "0:100 WT",
+      ""
+    ],
+    "C6": [
+      "0:100 WT",
+      ""
+    ],
+    "C7": [
+      "0:100 WT",
+      ""
+    ],
+    "C8": [
+      "0:100 WT",
+      ""
+    ],
+    "D1": [
+      "85:15 HZ",
+      ""
+    ],
+    "D2": [
+      "85:15 HZ",
+      ""
+    ],
+    "D3": [
+      "85:15 HZ",
+      ""
+    ],
+    "D4": [
+      "85:15 HZ",
+      ""
+    ],
+    "D5": [
+      "85:15 HZ",
+      ""
+    ],
+    "D6": [
+      "85:15 HZ",
+      ""
+    ],
+    "D7": [
+      "85:15 HZ",
+      ""
+    ],
+    "D8": [
+      "85:15 HZ",
+      ""
+    ],
+    "E1": [
+      "50:50 HZ",
+      ""
+    ],
+    "E2": [
+      "50:50 HZ",
+      ""
+    ],
+    "E3": [
+      "50:50 HZ",
+      ""
+    ],
+    "E4": [
+      "50:50 HZ",
+      ""
+    ],
+    "E5": [
+      "50:50 HZ",
+      ""
+    ],
+    "E6": [
+      "50:50 HZ",
+      ""
+    ],
+    "E7": [
+      "50:50 HZ",
+      ""
+    ],
+    "E8": [
+      "50:50 HZ",
+      ""
+    ],
+    "F1": [
+      "0:100 HZ",
+      ""
+    ],
+    "F2": [
+      "0:100 HZ",
+      ""
+    ],
+    "F3": [
+      "0:100 HZ",
+      ""
+    ],
+    "F4": [
+      "0:100 HZ",
+      ""
+    ],
+    "F5": [
+      "0:100 HZ",
+      ""
+    ],
+    "F6": [
+      "0:100 HZ",
+      ""
+    ],
+    "F7": [
+      "0:100 HZ",
+      ""
+    ],
+    "F8": [
+      "0:100 HZ",
+      ""
+    ]
+  },
+  "plateIP9_map": {
+    "A1": [
+      "85:15 WT",
+      ""
+    ],
+    "A2": [
+      "85:15 WT",
+      ""
+    ],
+    "A3": [
+      "85:15 WT",
+      ""
+    ],
+    "A4": [
+      "85:15 WT",
+      ""
+    ],
+    "A5": [
+      "85:15 WT",
+      ""
+    ],
+    "A6": [
+      "85:15 WT",
+      ""
+    ],
+    "A7": [
+      "85:15 WT",
+      ""
+    ],
+    "A8": [
+      "85:15 WT",
+      ""
+    ],
+    "B1": [
+      "50:50 WT",
+      ""
+    ],
+    "B2": [
+      "50:50 WT",
+      ""
+    ],
+    "B3": [
+      "50:50 WT",
+      ""
+    ],
+    "B4": [
+      "50:50 WT",
+      ""
+    ],
+    "B5": [
+      "50:50 WT",
+      ""
+    ],
+    "B6": [
+      "50:50 WT",
+      ""
+    ],
+    "B7": [
+      "50:50 WT",
+      ""
+    ],
+    "B8": [
+      "50:50 WT",
+      ""
+    ],
+    "C1": [
+      "0:100 WT",
+      ""
+    ],
+    "C2": [
+      "0:100 WT",
+      ""
+    ],
+    "C3": [
+      "0:100 WT",
+      ""
+    ],
+    "C4": [
+      "0:100 WT",
+      ""
+    ],
+    "C5": [
+      "0:100 WT",
+      ""
+    ],
+    "C6": [
+      "0:100 WT",
+      ""
+    ],
+    "C7": [
+      "0:100 WT",
+      ""
+    ],
+    "C8": [
+      "0:100 WT",
+      ""
+    ],
+    "D1": [
+      "85:15 HZ",
+      ""
+    ],
+    "D2": [
+      "85:15 HZ",
+      ""
+    ],
+    "D3": [
+      "85:15 HZ",
+      ""
+    ],
+    "D4": [
+      "85:15 HZ",
+      ""
+    ],
+    "D5": [
+      "85:15 HZ",
+      ""
+    ],
+    "D6": [
+      "85:15 HZ",
+      ""
+    ],
+    "D7": [
+      "85:15 HZ",
+      ""
+    ],
+    "D8": [
+      "85:15 HZ",
+      ""
+    ],
+    "E1": [
+      "50:50 HZ",
+      ""
+    ],
+    "E2": [
+      "50:50 HZ",
+      ""
+    ],
+    "E3": [
+      "50:50 HZ",
+      ""
+    ],
+    "E4": [
+      "50:50 HZ",
+      ""
+    ],
+    "E5": [
+      "50:50 HZ",
+      ""
+    ],
+    "E6": [
+      "50:50 HZ",
+      ""
+    ],
+    "E7": [
+      "50:50 HZ",
+      ""
+    ],
+    "E8": [
+      "50:50 HZ",
+      ""
+    ],
+    "F1": [
+      "0:100 HZ",
+      ""
+    ],
+    "F2": [
+      "0:100 HZ",
+      ""
+    ],
+    "F3": [
+      "0:100 HZ",
+      ""
+    ],
+    "F4": [
+      "0:100 HZ",
+      ""
+    ],
+    "F5": [
+      "0:100 HZ",
+      ""
+    ],
+    "F6": [
+      "0:100 HZ",
+      ""
+    ],
+    "F7": [
+      "0:100 HZ",
+      ""
+    ],
+    "F8": [
+      "0:100 HZ",
+      ""
+    ]
+  },
+  "plateIP11_map": {
+    "A1": [
+      "100:0 WT",
+      ""
+    ],
+    "A2": [
+      "100:0 WT",
+      ""
+    ],
+    "B1": [
+      "100:0 WT",
+      ""
+    ],
+    "B2": [
+      "100:0 WT",
+      ""
+    ],
+    "C1": [
+      "100:0 WT",
+      ""
+    ],
+    "C2": [
+      "100:0 WT",
+      ""
+    ],
+    "D1": [
+      "100:0 WT",
+      ""
+    ],
+    "D2": [
+      "100:0 WT",
+      ""
+    ],
+    "E1": [
+      "100:0 WT",
+      ""
+    ],
+    "E2": [
+      "100:0 WT",
+      ""
+    ],
+    "F1": [
+      "100:0 WT",
+      ""
+    ],
+    "F2": [
+      "100:0 WT",
+      ""
+    ],
+    "A3": [
+      "85:15 WT",
+      ""
+    ],
+    "A4": [
+      "85:15 WT",
+      ""
+    ],
+    "B3": [
+      "85:15 WT",
+      ""
+    ],
+    "B4": [
+      "85:15 WT",
+      ""
+    ],
+    "C3": [
+      "85:15 WT",
+      ""
+    ],
+    "C4": [
+      "85:15 WT",
+      ""
+    ],
+    "D3": [
+      "85:15 WT",
+      ""
+    ],
+    "D4": [
+      "85:15 WT",
+      ""
+    ],
+    "E3": [
+      "85:15 WT",
+      ""
+    ],
+    "E4": [
+      "85:15 WT",
+      ""
+    ],
+    "F3": [
+      "85:15 WT",
+      ""
+    ],
+    "F4": [
+      "85:15 WT",
+      ""
+    ],
+    "A5": [
+      "50:50 WT",
+      ""
+    ],
+    "A6": [
+      "50:50 WT",
+      ""
+    ],
+    "B5": [
+      "50:50 WT",
+      ""
+    ],
+    "B6": [
+      "50:50 WT",
+      ""
+    ],
+    "C5": [
+      "50:50 WT",
+      ""
+    ],
+    "C6": [
+      "50:50 WT",
+      ""
+    ],
+    "D5": [
+      "50:50 WT",
+      ""
+    ],
+    "D6": [
+      "50:50 WT",
+      ""
+    ],
+    "E5": [
+      "50:50 WT",
+      ""
+    ],
+    "E6": [
+      "50:50 WT",
+      ""
+    ],
+    "F5": [
+      "50:50 WT",
+      ""
+    ],
+    "F6": [
+      "50:50 WT",
+      ""
+    ]
+  },
+  "plateIP13_map": {
+    "A1": [
+      "50:50 WT",
+      ""
+    ],
+    "A2": [
+      "50:50 WT",
+      ""
+    ],
+    "A3": [
+      "50:50 WT",
+      ""
+    ],
+    "A4": [
+      "50:50 WT",
+      ""
+    ],
+    "A5": [
+      "50:50 WT",
+      ""
+    ],
+    "A6": [
+      "50:50 WT",
+      ""
+    ],
+    "A7": [
+      "50:50 WT",
+      ""
+    ],
+    "A8": [
+      "50:50 WT",
+      ""
+    ],
+    "B1": [
+      "50:50 WT",
+      ""
+    ],
+    "B2": [
+      "50:50 WT",
+      ""
+    ],
+    "B3": [
+      "50:50 WT",
+      ""
+    ],
+    "B4": [
+      "50:50 WT",
+      ""
+    ],
+    "B5": [
+      "50:50 WT",
+      ""
+    ],
+    "B6": [
+      "50:50 WT",
+      ""
+    ],
+    "B7": [
+      "50:50 WT",
+      ""
+    ],
+    "B8": [
+      "50:50 WT",
+      ""
+    ],
+    "C1": [
+      "50:50 HZ",
+      ""
+    ],
+    "C2": [
+      "50:50 HZ",
+      ""
+    ],
+    "C3": [
+      "50:50 HZ",
+      ""
+    ],
+    "C4": [
+      "50:50 HZ",
+      ""
+    ],
+    "C5": [
+      "50:50 HZ",
+      ""
+    ],
+    "C6": [
+      "50:50 HZ",
+      ""
+    ],
+    "C7": [
+      "50:50 HZ",
+      ""
+    ],
+    "C8": [
+      "50:50 HZ",
+      ""
+    ],
+    "D1": [
+      "50:50 HZ",
+      ""
+    ],
+    "D2": [
+      "50:50 HZ",
+      ""
+    ],
+    "D3": [
+      "50:50 HZ",
+      ""
+    ],
+    "D4": [
+      "50:50 HZ",
+      ""
+    ],
+    "D5": [
+      "50:50 HZ",
+      ""
+    ],
+    "D6": [
+      "50:50 HZ",
+      ""
+    ],
+    "D7": [
+      "50:50 HZ",
+      ""
+    ],
+    "D8": [
+      "50:50 HZ",
+      ""
+    ],
+    "E1": [
+      "85:15 WT",
+      ""
+    ],
+    "E2": [
+      "85:15 WT",
+      ""
+    ],
+    "E3": [
+      "85:15 WT",
+      ""
+    ],
+    "E4": [
+      "85:15 WT",
+      ""
+    ],
+    "E5": [
+      "85:15 WT",
+      ""
+    ],
+    "E6": [
+      "85:15 WT",
+      ""
+    ],
+    "E7": [
+      "85:15 WT",
+      ""
+    ],
+    "E8": [
+      "85:15 WT",
+      ""
+    ],
+    "F1": [
+      "85:15 HZ",
+      ""
+    ],
+    "F2": [
+      "85:15 HZ",
+      ""
+    ],
+    "F3": [
+      "85:15 HZ",
+      ""
+    ],
+    "F4": [
+      "85:15 HZ",
+      ""
+    ],
+    "F5": [
+      "85:15 HZ",
+      ""
+    ],
+    "F6": [
+      "85:15 HZ",
+      ""
+    ],
+    "F7": [
+      "85:15 HZ",
+      ""
+    ],
+    "F8": [
+      "85:15 HZ",
+      ""
+    ]
+  },
+  "plateIP18_map": {
+    "A1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "B3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "C3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "D3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "E3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F1": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F2": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "F3": [
+      "NGN2_neurons_STXBP1_DAPT vehicle",
+      ""
+    ],
+    "A4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "A5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "A6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "B4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "B5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "B6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "C4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "C5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "C6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "D4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "D5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "D6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "E4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "E5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "E6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "F4": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "F5": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ],
+    "F6": [
+      "NGN2_neurons_STXBP1_DAPT atropine",
+      ""
+    ]
+  },
+  "plate99_map": {
+    "A1": [
+      "No_Astro",
+      ""
+    ],
+    "A2": [
+      "No_Astro",
+      ""
+    ],
+    "A3": [
+      "No_Astro",
+      ""
+    ],
+    "A4": [
+      "No_Astro",
+      ""
+    ],
+    "A5": [
+      "No_Astro",
+      ""
+    ],
+    "A6": [
+      "No_Astro",
+      ""
+    ],
+    "A7": [
+      "No_Astro",
+      ""
+    ],
+    "A8": [
+      "No_Astro",
+      ""
+    ],
+    "B1": [
+      "No_Astro",
+      ""
+    ],
+    "B2": [
+      "No_Astro",
+      ""
+    ],
+    "B3": [
+      "No_Astro",
+      ""
+    ],
+    "B4": [
+      "No_Astro",
+      ""
+    ],
+    "B5": [
+      "No_Astro",
+      ""
+    ],
+    "B6": [
+      "No_Astro",
+      ""
+    ],
+    "B7": [
+      "No_Astro",
+      ""
+    ],
+    "B8": [
+      "No_Astro",
+      ""
+    ],
+    "C1": [
+      "No_Astro",
+      ""
+    ],
+    "C2": [
+      "No_Astro",
+      ""
+    ],
+    "C3": [
+      "No_Astro",
+      ""
+    ],
+    "C4": [
+      "No_Astro",
+      ""
+    ],
+    "C5": [
+      "No_Astro",
+      ""
+    ],
+    "C6": [
+      "No_Astro",
+      ""
+    ],
+    "C7": [
+      "No_Astro",
+      ""
+    ],
+    "C8": [
+      "No_Astro",
+      ""
+    ],
+    "D1": [
+      "Astro",
+      ""
+    ],
+    "D2": [
+      "Astro",
+      ""
+    ],
+    "D3": [
+      "Astro",
+      ""
+    ],
+    "D4": [
+      "Astro",
+      ""
+    ],
+    "D5": [
+      "Astro",
+      ""
+    ],
+    "D6": [
+      "Astro",
+      ""
+    ],
+    "D7": [
+      "Astro",
+      ""
+    ],
+    "D8": [
+      "Astro",
+      ""
+    ],
+    "E1": [
+      "Astro",
+      ""
+    ],
+    "E2": [
+      "Astro",
+      ""
+    ],
+    "E3": [
+      "Astro",
+      ""
+    ],
+    "E4": [
+      "Astro",
+      ""
+    ],
+    "E5": [
+      "Astro",
+      ""
+    ],
+    "E6": [
+      "Astro",
+      ""
+    ],
+    "E7": [
+      "Astro",
+      ""
+    ],
+    "E8": [
+      "Astro",
+      ""
+    ],
+    "F1": [
+      "Astro",
+      ""
+    ],
+    "F2": [
+      "Astro",
+      ""
+    ],
+    "F3": [
+      "Astro",
+      ""
+    ],
+    "F4": [
+      "Astro",
+      ""
+    ],
+    "F5": [
+      "Astro",
+      ""
+    ],
+    "F6": [
+      "Astro",
+      ""
+    ],
+    "F7": [
+      "Astro",
+      ""
+    ],
+    "F8": [
+      "Astro",
+      ""
+    ]
+  },
+  "plate98_map": {
+    "E5": [
+      "Yes_DAPT vehicle",
+      ""
+    ],
+    "E6": [
+      "Yes_DAPT vehicle",
+      ""
+    ],
+    "F5": [
+      "Yes_DAPT vehicle",
+      ""
+    ],
+    "F6": [
+      "Yes_DAPT vehicle",
+      ""
+    ],
+    "A5": [
+      "Yes_DAPT XE991",
+      ""
+    ],
+    "B5": [
+      "Yes_DAPT XE991",
+      ""
+    ],
+    "C5": [
+      "Yes_DAPT XE991",
+      ""
+    ],
+    "D5": [
+      "Yes_DAPT XE991",
+      ""
+    ],
+    "A6": [
+      "Yes_DAPT PTX_XE991",
+      ""
+    ],
+    "B6": [
+      "Yes_DAPT PTX_XE991",
+      ""
+    ],
+    "C6": [
+      "Yes_DAPT PTX_XE991",
+      ""
+    ],
+    "D6": [
+      "Yes_DAPT PTX_XE991",
+      ""
+    ],
+    "A7": [
+      "No_DAPT vehicle",
+      ""
+    ],
+    "A8": [
+      "No_DAPT vehicle",
+      ""
+    ],
+    "B7": [
+      "No_DAPT vehicle",
+      ""
+    ],
+    "B8": [
+      "No_DAPT vehicle",
+      ""
+    ],
+    "C7": [
+      "No_DAPT XE991",
+      ""
+    ],
+    "D7": [
+      "No_DAPT XE991",
+      ""
+    ],
+    "E7": [
+      "No_DAPT XE991",
+      ""
+    ],
+    "F7": [
+      "No_DAPT XE991",
+      ""
+    ],
+    "C8": [
+      "No_DAPT PTX_XE991",
+      ""
+    ],
+    "D8": [
+      "No_DAPT PTX_XE991",
+      ""
+    ],
+    "E8": [
+      "No_DAPT PTX_XE991",
+      ""
+    ],
+    "F8": [
+      "No_DAPT PTX_XE991",
+      ""
+    ]
+  }
+}
