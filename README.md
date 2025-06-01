@@ -2,6 +2,8 @@
 
 Analysis pipeline for processing and analyzing neural activity from Multi-Electrode Array recordings, with a focus on spike train analysis, oscillatory burst detection, and spectral parameterization.
 
+## Disclaimer: Code was AI assisted for readability and commentating prior to uploading
+
 ## Pipeline Workflow
 
 ```
