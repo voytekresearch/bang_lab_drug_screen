@@ -33,10 +33,10 @@ Burst Analysis & Results (CSV)
 
 ### Python Requirements
 
-Install dependencies using pip:
+Install dependencies using pip, or create the environment from .yml:
 
 ```bash
-pip install -r requirements.txt
+conda create --name environment_NDD.yml
 ```
 
 ## File Organization
@@ -50,7 +50,7 @@ your_project/
 │   ├── plate_processor.py
 │   ├── spectral_analyzer.py
 │   └── oscillatory_burst_analyzer.py
-├── requirements.txt
+├── environment_NDD.yml
 ├── README.md
 └── data/
     ├── raw_recordings/          # .spk files
